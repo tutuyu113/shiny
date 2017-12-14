@@ -1,0 +1,12 @@
+name: Project3
+title: Project3
+username:
+account: tutuyu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 248916
+bundleId: 1135625
+url: https://tutuyu.shinyapps.io/Project3/
+when: 1513288756.01899
+asMultiple: FALSE
+asStatic: FALSE
